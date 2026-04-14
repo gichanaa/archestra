@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.14](https://github.com/archestra-ai/archestra/compare/platform-v1.2.13...platform-v1.2.14) (2026-04-14)
+
+
+### Bug Fixes
+
+* emit OpenAPI 3.0-compatible exclusiveMinimum in component schemas ([#3765](https://github.com/archestra-ai/archestra/issues/3765)) ([4029a90](https://github.com/archestra-ai/archestra/commit/4029a9010d8efdb8b9f6f82aa53c7f4e78188008))
+* improve Jira OAuth and refresh MCP tokens ([#3774](https://github.com/archestra-ai/archestra/issues/3774)) ([59875c5](https://github.com/archestra-ai/archestra/commit/59875c5050987b15cad6765a99458c1545728e6d))
+* sync archestra branding in worker so builtin tools work in scheduled tasks ([#3777](https://github.com/archestra-ai/archestra/issues/3777)) ([f856cdf](https://github.com/archestra-ai/archestra/commit/f856cdf5a31b61845cfdef5fce03b9680081660c))
+
 ## [1.2.13](https://github.com/archestra-ai/archestra/compare/platform-v1.2.12...platform-v1.2.13) (2026-04-14)
 
 
